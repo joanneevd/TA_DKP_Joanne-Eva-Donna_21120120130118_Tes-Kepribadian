@@ -54,7 +54,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col offset-1">
-                        <div class="card" style="width: 60rem;">
+                        <div class="card" style="width: 60rem; width: 100%; height: 200px;">
                             <form class="card-body">
                                 <div class="card-title"style="padding: 2rem;">
                                 <div class="card-text" style="color: #273036; padding-bottom: 2rem; padding-right: 2rem; padding-left: 2rem;">
