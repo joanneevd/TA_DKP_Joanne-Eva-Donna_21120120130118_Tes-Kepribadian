@@ -48,7 +48,7 @@
                 </div>
                 <br>
     <!-- akhir card bio -->
-<!-- card hasil -->
+    <!-- card hasil -->
             <div class="row text-center">
                 <div class="col">
                 </div>
@@ -334,6 +334,7 @@
         </div>    
         </div>
     </div>  
+    <!-- akhir card hasil -->
     </body>
     </html>
     
