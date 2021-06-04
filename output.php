@@ -54,7 +54,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col offset-1">
-                        <div class="card" style="width: 60rem; width: 100%; height: 200px;">
+                        <div class="card" style="width: 60rem; width: 100%; min-height: 200px;">
                             <form class="card-body">
                                 <div class="card-title"style="padding: 2rem;">
                                 <div class="card-text" style="color: #273036; padding-bottom: 2rem; padding-right: 2rem; padding-left: 2rem;">
@@ -90,7 +90,7 @@
                                 ?>
                                 <br>
                                 <?php 
-                            
+                                
                                     $radioVal = $_POST["jawaban1"];
                             
                                     if($radioVal == "a")
@@ -310,7 +310,7 @@
                             
                                     $total = $nilai1 + $nilai2 + $nilai3 + $nilai4 + $nilai5 + $nilai6 + $nilai7 + $nilai8 + $nilai9 + $nilai10 + $nilai11 + $nilai12;
                             
-                            
+                                    
                                     if ($total >= 410) {
                                         echo "<h3>KOLERIS</h3>". "<br>";
                                         echo "Orang yang koleris terkenal sangat cerdas, analitis, dan logis, sangat praktis dan langsung, menjadi teman baik atau orang yang ramah.";
@@ -327,6 +327,7 @@
                                         echo "<h3>PLEGMATIS</h3>". "<br>";
                                         echo "Tipe ini biasanya mencari keharmonisan dekat yang membuat orang-orang plegmatis menjadi pasangan yang setia dan orang tua yang penuh kasih.";
                                     }
+                                
                                 ?>
 
             </div>
@@ -335,4 +336,5 @@
     </div>  
     </body>
     </html>
+    
     
