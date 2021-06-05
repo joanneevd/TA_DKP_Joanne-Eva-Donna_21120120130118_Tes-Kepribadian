@@ -38,7 +38,7 @@
     else
     {
       header('Location: index.html');}
-    S?>
+    ?>
     <!-- card bio -->
     <div class="container" style="padding-bottom: 5rem;">
             <div class="row text-center">
